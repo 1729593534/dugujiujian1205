@@ -3,5 +3,6 @@ public class Dugujiujian1205 {
         System.out.println("hello dugujiujian");
         System.out.println("hello");
         System.out.println("linghuchong");
+        System.out.println("linghuchong2");
     }
 }
